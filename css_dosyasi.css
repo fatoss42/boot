@@ -1,0 +1,19 @@
+body {
+    background-color: #f77307;
+}
+.div1{
+    background-color: rgb(57, 184, 142);
+}
+.card{
+    width:300px;
+  }
+.buton1{
+    border: 2;
+    padding: 0cqmax;
+    margin: 0cqb;
+    background-color: rebeccapurple;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+}  
